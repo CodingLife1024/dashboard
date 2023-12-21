@@ -47,3 +47,5 @@ export const Topbar = () => {
         </Box>
     );
 };
+
+export default Topbar;
